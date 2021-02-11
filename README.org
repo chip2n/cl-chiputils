@@ -1,0 +1,2 @@
+* chiputils
+My own Common Lisp utility functions to make life bearable
